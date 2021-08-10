@@ -1,1 +1,1 @@
-# stepik-auto-tests-course
+# simple auto-test homework from previous module
